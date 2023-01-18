@@ -1,0 +1,5 @@
+,0
+name,dl_fgnet
+mae,5.531631574630738
+epoch,100
+batch_size,32

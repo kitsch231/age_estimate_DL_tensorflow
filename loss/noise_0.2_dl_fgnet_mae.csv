@@ -1,0 +1,5 @@
+,0
+name,noise_0.2_dl_fgnet
+mae,5.516771686077118
+epoch,100
+batch_size,32

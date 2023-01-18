@@ -1,0 +1,5 @@
+,0
+name,nodl_fgnet
+mae,5.6271787482500075
+epoch,100
+batch_size,32

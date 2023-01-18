@@ -1,0 +1,5 @@
+,0
+name,dl_chalearn16
+mae,4.538741381704189
+epoch,100
+batch_size,32

@@ -1,0 +1,5 @@
+,0
+name,dl_utkface
+mae,5.045540242
+epoch,100
+batch_size,32
